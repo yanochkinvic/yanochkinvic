@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Victor Yanochkin!
-- I'm JavaScript developer from Moscow.
+- 👋 Hi, my name is Victor Yanochkin! I'm JavaScript developer from Moscow.
 
 - 🌱 Check my projects: Akim Express, Random Weather.
 
